@@ -2,7 +2,7 @@
 
 # ⭐ Review Form – Laravel RESTful Service
 
-A simple and secure **Review Form API** built using **Laravel**, designed to allow users to submit, view, update, and delete product or service reviews.
+A simple and secure **Review Form ** built using **Laravel**, designed to allow users to submit, view, update, and delete product or service reviews.
 
 ---
 
